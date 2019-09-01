@@ -14,7 +14,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="client1-app" target="6" />
+      <module name="client1-app" target="8" />
       <module name="client2-app" target="6" />
       <module name="receiver-app" target="6" />
       <module name="sender-app" target="6" />
