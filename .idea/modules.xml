@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/client1-app/client1-app.iml" filepath="$PROJECT_DIR$/client1-app/client1-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/client2-app/client2-app.iml" filepath="$PROJECT_DIR$/client2-app/client2-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/receiver-app/receiver-app.iml" filepath="$PROJECT_DIR$/receiver-app/receiver-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/sd-exercicio.iml" filepath="$PROJECT_DIR$/.idea/sd-exercicio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sender-app/sender-app.iml" filepath="$PROJECT_DIR$/sender-app/sender-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shared-app/shared-app.iml" filepath="$PROJECT_DIR$/shared-app/shared-app.iml" />
+    </modules>
+  </component>
+</project>
